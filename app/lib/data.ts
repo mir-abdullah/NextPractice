@@ -1,4 +1,4 @@
-import postgres from 'postgres';
+asimport postgres from 'postgres';
 import {
   CustomerField,
   CustomersTableType,
